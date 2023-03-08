@@ -37,6 +37,6 @@
   "display": "standalone",
   "start_url": "/",
   "description": "Just Another Text Editor",
-  "background_color": "#1e1e1e",
-  "theme_color": "#1e1e1e"
+  "background_color": "#ffffff",
+  "theme_color": "#010101"
 }
