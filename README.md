@@ -3,7 +3,7 @@
 
 ## Description
 
-xx
+A simple text editor application that can run both online and offline. This application can be downloaded to your desktop as an application as well.
 
 ## Table of Contents
 
@@ -56,6 +56,24 @@ To run this application:
 - THEN I should have proper build scripts for a webpack application
 
 ## Preview
+
+- Deployed Application
+![image](https://user-images.githubusercontent.com/114375310/224184541-f8fd7a32-e2be-46dd-b307-009acb68cde9.png)
+
+- Service Worker
+![image](https://user-images.githubusercontent.com/114375310/224184667-be355c9c-e768-4ac0-9d6a-23742e9aa9f1.png)
+
+- Loaded Manifest 
+![image](https://user-images.githubusercontent.com/114375310/224184760-b3c7d890-6b21-4278-8a41-758d8d1c39e5.png)
+
+- Saves locally in indexedDB
+![image](https://user-images.githubusercontent.com/114375310/224184872-e7056896-435c-4e52-9120-019300183389.png)
+
+- Offline Capabilities
+![image](https://user-images.githubusercontent.com/114375310/224184985-d06bf9a3-2813-4ffb-8e3a-f525bd0b4e6f.png)
+
+- Installed application via PWA
+![image](https://user-images.githubusercontent.com/114375310/224185055-d37a4144-538d-491d-9ee0-90ff590c939e.png)
 
 https://stark-wave-50545.herokuapp.com/
 
